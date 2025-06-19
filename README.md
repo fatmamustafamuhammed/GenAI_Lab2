@@ -73,7 +73,11 @@ This project is a Python script for an AI reminder agent. The agent accepts natu
 ## Run in Terminal
 
 - $ python reminder_agent.py
+  
   AI Reminder Agent is running.
+
   Enter your reminder: Please remind me to call John on June 20th at 3pm
+  
   Enter your email: fmomen738@gmail.com
+  
   Reminder set for 2025-06-20 15:00:00.
